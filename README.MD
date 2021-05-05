@@ -8,7 +8,7 @@ The implementation supports Prefix Searchingthat displays contact details with a
 
 ## Visualisation
 
-![graph](https://raw.githubusercontent.com/anandman03/food-deliver-simulator/Public/graph.png)
+![graph](https://github.com/anandman03/food-deliver-simulator/blob/main/graph.png)
 
 ```
 Test Case:
