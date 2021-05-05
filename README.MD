@@ -1,4 +1,4 @@
-# Phonebook
+# Food Delivery Simulation
 
 This is a phonebook design and implementation using Trie data structure. I have implemented two tries here. 
 1. One uses the name to store details and number at the end.
@@ -8,7 +8,7 @@ The implementation supports Prefix Searchingthat displays contact details with a
 
 ## Visualisation
 
-![graph](https://raw.githubusercontent.com/anandman03/food-deliver-simulator/Public/graph.jpg)
+![graph](https://raw.githubusercontent.com/anandman03/food-deliver-simulator/Public/graph.png)
 
 ```
 Test Case:
